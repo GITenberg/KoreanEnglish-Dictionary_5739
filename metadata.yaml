@@ -1,0 +1,22 @@
+_repo: KoreanEnglish-Dictionary_5739
+creator:
+  author:
+    agent_name: Kuperman, Leon
+    gutenberg_agent_id: '1860'
+    url: http://www.gutenberg.org/2009/agents/1860
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5739'
+language:
+- en
+- ko
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Korean language -- Dictionaries -- English'
+- !lcc 'PL'
+title: Korean—English Dictionary
+url: http://www.gutenberg.org/ebooks/5739
